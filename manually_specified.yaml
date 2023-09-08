@@ -12,35 +12,35 @@
 # See the README.md for more details
 ---
 changes:
-- stage: 6
-  start: 2023-09-05T05:00:00
-  finsh: 2023-09-08T05:00:00
-  source: https://twitter.com/Eskom_SA/status/1699855373975339170
+- stage: 5
+  start: 2023-09-08T18:00:00
+  finsh: 2023-09-08T20:30:00
+  source: https://www.mosselbayadvertiser.com/News/Article/Loadshedding/load-shedding-stage-5-202309080813
   exclude: coct
 - stage: 5
-  start: 2023-09-08T05:00:00
-  finsh: 2023-09-08T16:00:00
-  source: https://twitter.com/Eskom_SA/status/1699855373975339170
+  start: 2023-09-09T00:00:00
+  finsh: 2023-09-09T04:30:00
+  source: https://www.mosselbayadvertiser.com/News/Article/Loadshedding/load-shedding-stage-5-202309080813
   exclude: coct
 
-- stage: 4
-  start: 2023-09-07T16:00:00
-  finsh: 2023-09-07T22:00:00
-  source: https://twitter.com/CityofCT/status/1699860278307914201
+- stage: 5
+  start: 2023-09-09T08:00:00
+  finsh: 2023-09-09T12:30:00
+  source: https://www.mosselbayadvertiser.com/News/Article/Loadshedding/load-shedding-stage-5-202309080813
   include: coct
-- stage: 6
-  start: 2023-09-07T22:00:00
-  finsh: 2023-09-08T05:00:00
-  source: https://twitter.com/CityofCT/status/1699860278307914201
+- stage: 5
+  start: 2023-09-09T16:00:00
+  finsh: 2023-09-09T18:30:00
+  source: https://www.mosselbayadvertiser.com/News/Article/Loadshedding/load-shedding-stage-5-202309080813
   include: coct
-- stage: 3
-  start: 2023-09-08T05:00:00
-  finsh: 2023-09-08T10:00:00
-  source: https://twitter.com/CityofCT/status/1699860278307914201
+- stage: 5
+  start: 2023-09-10T00:00:00
+  finsh: 2023-09-10T02:30:00
+  source: https://www.mosselbayadvertiser.com/News/Article/Loadshedding/load-shedding-stage-5-202309080813
   include: coct
-- stage: 4
-  start: 2023-09-08T10:00:00
-  finsh: 2023-09-08T16:00:00
-  source: https://twitter.com/CityofCT/status/1699860278307914201
+- stage: 5
+  start: 2023-09-10T08:00:00
+  finsh: 2023-09-10T12:30:00
+  source: https://www.mosselbayadvertiser.com/News/Article/Loadshedding/load-shedding-stage-5-202309080813
   include: coct
 historical_changes: []
